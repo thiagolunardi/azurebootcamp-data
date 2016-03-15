@@ -54,6 +54,11 @@
       "Name": "TreinaWeb",
       "Image": "https://treinaweb-assets.s3.amazonaws.com/img/site/logo/treinaweb-index.png",
       "Link": "https://www.treinaweb.com.br"
+    },
+    {
+      "Name": "Its4Company",
+      "Image": "https://media.licdn.com/media/AAEAAQAAAAAAAALWAAAAJDFiMGM1OTNhLTVjMGUtNDJjNi05N2E1LWU0M2IxYmVkOTUzZg.png",
+      "Link": "https://www.its4.it"
     }
   ],
   "Prizes": [
