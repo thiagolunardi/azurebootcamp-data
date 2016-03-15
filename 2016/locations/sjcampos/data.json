@@ -68,12 +68,12 @@
       "Sessions": [
         {
           "SessionId": "Registration",
-          "Time": "8:00 AM - 8:30 AM",
+          "Time": "8:00 - 8:30",
           "Title": "Checkin - Welcome coffe"
         },
         {
           "SessionId": "Common1",
-          "Time": "8:30 AM - 9:20 AM",
+          "Time": "8:30 - 9:20",
           "Title": "Keynote - Abertura",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
@@ -88,7 +88,7 @@
         },
         {
           "SessionId": "AppServices",
-          "Time": "9:30 AM - 10:20 AM",
+          "Time": "9:30 - 10:20",
           "Title": "App Services: Deep Dive",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
@@ -103,7 +103,7 @@
         },
         {
           "SessionId": "AzureStorage",
-          "Time": "10:30 AM - 11:20 AM",
+          "Time": "10:30 - 11:20",
           "Title": "Azure Storage",
           "Speaker": {
             "Name": "Thiago Custódio, MVP",
@@ -116,12 +116,12 @@
         },
         {
           "SessionId": "LunchBreak",
-          "Time": "11:30 AM - 12:20 PM",
+          "Time": "11:30 - 12:20",
           "Title": "Lunch Break & Networking"
         },
         {
-          "SessionId": "AzureStorage",
-          "Time": "12:30 PM - 13:20 PM",
+          "SessionId": "Xamarin",
+          "Time": "12:30 - 13:20",
           "Title": "Capacidades do Visual Studio e Xamarim para desenvolvimento Android, iOS e Windows 10",
           "Speaker": {
             "Name": "Thiago Custódio, MVP",
@@ -139,7 +139,7 @@
       "Sessions": [
         {
           "SessionId": "Registration",
-          "Time": "8:00 AM - 8:30 AM",
+          "Time": "8:00 - 8:30",
           "Title": "Checkin - Welcome coffe"
         },
         {
@@ -159,7 +159,7 @@
         },
        {
           "SessionId": "VisualStudio",
-          "Time": "9:30 AM - 10:20 AM",
+          "Time": "9:30 - 10:20",
           "Title": "Como utilizar o Visual Studio para provisionar recursos no Azure",
           "Speaker": {
             "Name": "Gustavo Zimmermann",
@@ -174,7 +174,7 @@
         },
         {
           "SessionId": "LunchBreak",
-          "Time": "11:30 AM - 12:20 PM",
+          "Time": "11:30 - 12:20",
           "Title": "Lunch Break & Networking"
         }
       ]
@@ -184,12 +184,12 @@
       "Sessions": [
         {
           "SessionId": "Registration",
-          "Time": "8:00 AM - 8:30 AM",
+          "Time": "8:00 - 8:30",
           "Title": "Checkin - Welcome coffe"
         },
         {
           "SessionId": "Common1",
-          "Time": "8:30 AM - 9:20 AM",
+          "Time": "8:30 - 9:20",
           "Title": "Keynote - Abertura",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
@@ -202,9 +202,24 @@
             }
           }
         },
+        {
+          "SessionId": "AzureStack",
+          "Time": "9:30 - 10:20",
+          "Title": "Azure Stack",
+          "Speaker": {
+            "Name": "Fabio Hara",
+            "ImageUrl": "https://pbs.twimg.com/profile_images/86415466/FabioHara_400x400.jpg",
+            "Description": "Microsoft Senior Evangelist",
+            "Social": {
+              "Facebook": "www.facebook.com/fabioharamicrosoft",
+              "Twitter": "twitter.com/fabiohara",
+              "Website": "www.fabiohara.com.br"
+            }
+          }
+        },
        {
           "SessionId": "LunchBreak",
-          "Time": "11:30 AM - 12:20 PM",
+          "Time": "11:30 - 12:20",
           "Title": "Lunch Break & Networking"
         }
       ]
