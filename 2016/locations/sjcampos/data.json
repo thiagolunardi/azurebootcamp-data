@@ -140,26 +140,6 @@
     {
       "Name": "Trilha IT Pro",
       "Sessions": [
-        {
-          "SessionId": "Registration",
-          "Time": "8:00 - 8:30",
-          "Title": "Checkin - Welcome coffe"
-        },
-        {
-          "SessionId": "Common1",
-          "Time": "8:30 AM - 9:20 AM",
-          "Title": "Keynote - Abertura",
-          "Speaker": {
-            "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
-            "Description": "Microsoft Azure MVP",
-            "Social": {
-              "Facebook": "www.facebook.com/ThiagoLunardi",
-              "Twitter": "www.twitter.com/ThiagoLunardi13",
-              "Website": "thiagolunardi.net"
-            }
-          }
-        },
        {
           "SessionId": "VisualStudio",
           "Time": "9:30 - 10:20",
@@ -174,37 +154,12 @@
               "Website": "http://www.gm9.com.br"
             }
           }
-        },
-        {
-          "SessionId": "LunchBreak",
-          "Time": "11:30 - 12:20",
-          "Title": "Lunch Break & Networking"
         }
       ]
     },
     {
       "Name": "Trilha Business",
       "Sessions": [
-        {
-          "SessionId": "Registration",
-          "Time": "8:00 - 8:30",
-          "Title": "Checkin - Welcome coffe"
-        },
-        {
-          "SessionId": "Common1",
-          "Time": "8:30 - 9:20",
-          "Title": "Keynote - Abertura",
-          "Speaker": {
-            "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
-            "Description": "Microsoft Azure MVP",
-            "Social": {
-              "Facebook": "www.facebook.com/ThiagoLunardi",
-              "Twitter": "www.twitter.com/ThiagoLunardi13",
-              "Website": "thiagolunardi.net"
-            }
-          }
-        },
         {
           "SessionId": "AzureStack",
           "Time": "9:30 - 10:20",
@@ -236,11 +191,6 @@
           }
         },
         {
-          "SessionId": "LunchBreak",
-          "Time": "11:30 - 12:20",
-          "Title": "Lunch Break & Networking"
-        },
-        {
           "SessionId": "TISustentavel",
           "Time": "10:30 - 11:20",
           "Title": "Fundando uma TI sustentável",
@@ -261,26 +211,6 @@
       "Name": "Trilha Express",
       "Sessions": [
         {
-          "SessionId": "Registration",
-          "Time": "8:00 AM - 8:30 AM",
-          "Title": "Checkin - Welcome coffe"
-        },
-        {
-          "SessionId": "Common1",
-          "Time": "8:30 AM - 9:20 AM",
-          "Title": "Keynote - Abertura",
-          "Speaker": {
-            "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
-            "Description": "Microsoft Azure MVP",
-            "Social": {
-              "Facebook": "www.facebook.com/ThiagoLunardi",
-              "Twitter": "www.twitter.com/ThiagoLunardi13",
-              "Website": "thiagolunardi.net"
-            }
-          }
-        },
-        {
           "SessionId": "StartHere",
           "Time": "9:30 - 10:20",
           "Title": "First Steps",
@@ -294,11 +224,6 @@
               "Website": "julioarruda.com.br"
             }
           }
-        },
-        {
-          "SessionId": "LunchBreak",
-          "Time": "11:30 AM - 12:20 PM",
-          "Title": "Lunch Break & Networking"
         }
       ]
     }
