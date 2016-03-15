@@ -221,6 +221,26 @@
           }
         },
         {
+          "SessionId": "DiogoHeringer",
+          "Time": "10:30 - 12:20",
+          "Title": "Office 365",
+          "Speaker": {
+            "Name": "Diogo Heringer, MVP",
+            "ImageUrl": "https://diogoheringer.files.wordpress.com/2013/12/diogo_skype.png?w=134&h=134",
+            "Description": "Microsoft MVP",
+            "Social": {
+              "Facebook": "http://www.facebook.com/ThiagoLunardi",
+              "Twitter": "http://www.twitter.com/diogoheringer",
+              "Website": "http://diogoheringer.com/"
+            }
+          }
+        },
+        {
+          "SessionId": "LunchBreak",
+          "Time": "11:30 - 12:20",
+          "Title": "Lunch Break & Networking"
+        },
+        {
           "SessionId": "TISustentavel",
           "Time": "10:30 - 11:20",
           "Title": "Fundando uma TI sustentável",
@@ -234,11 +254,6 @@
               "Website": "http://thiagolunardi.net"
             }
           }
-        },
-       {
-          "SessionId": "LunchBreak",
-          "Time": "11:30 - 12:20",
-          "Title": "Lunch Break & Networking"
         }
       ]
     },
@@ -271,7 +286,7 @@
           "Title": "First Steps",
           "Speaker": {
             "Name": "Julio Arruda, MTAC",
-            "ImageUrl": "http://visualstudiosummit.com.br/visualstudiosummit/img/palestrantes/julio_arruda.jpg",
+            "ImageUrl": "https://pbs.twimg.com/profile_images/595191614353571841/xe_e2qau.jpg",
             "Description": "Microsoft MTAC",
             "Social": {
               "Facebook": "https://www.facebook.com/julio.arrudaC/",
