@@ -85,7 +85,33 @@
               "Website": "http://thiagolunardi.net"
             }
           }
-        }
+        },
+        {
+          "Time": "9:30 AM - 10:20 AM",
+          "Title": "App Services: Deep Dive",
+          "Speaker": {
+            "Name": "Thiago Lunardi, MVP",
+            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+            "Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+            "Social": {
+              "Facebook": "http://www.facebook.com/ThiagoLunardi",
+              "Twitter": "http://www.twitter.com/ThiagoLunardi13",
+              "Website": "http://thiagolunardi.net"
+            }
+          }
+        },
+                {
+          "Time": "10:30 AM - 11:20 AM",
+          "Title": "Azure Storage",
+          "Speaker": {
+            "Name": "Thiago Custódio, MVP",
+            "ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
+            "Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
+            "Social": {
+              "Twitter": "http://twitter.com/thdotnet"
+            }
+          }
+        }  
       ]
     },
     {
