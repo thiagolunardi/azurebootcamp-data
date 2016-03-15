@@ -106,9 +106,9 @@
           }
         },
         {
-          "SessionId": "Lunch Break & Networking",
+          "SessionId": "LunchBreak",
           "Time": "11:30 - 12:20",
-          "Title": "Checkin - Welcome coffe"
+          "Title": "Lunch Break & Networking"
         },
         {
           "SessionId": "AppServices",
