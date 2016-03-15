@@ -52,7 +52,7 @@
     },
     {
       "Name": "TreinaWeb",
-      "Image": "http://www.ajeb.com.br/wp-content/uploads/2011/07/Treina-Web1.jpg",
+      "Image": "https://treinaweb-assets.s3.amazonaws.com/img/site/logo/treinaweb-index.png",
       "Link": "https://www.treinaweb.com.br"
     }
   ],
