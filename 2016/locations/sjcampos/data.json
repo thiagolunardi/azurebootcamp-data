@@ -169,6 +169,14 @@
               "Website": "http://www.gm9.com.br"
             }
           }
+        },
+        {
+          "SessionId": "MachineLearning",
+          "Time": "14:30 - 15:20",
+          "Title": "Introdução ao Machine Learning",
+          "Speaker": {
+            "Name": "Thiago Lunardi, MVP",
+          }
         }
       ]
     },
