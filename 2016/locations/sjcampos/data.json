@@ -87,6 +87,7 @@
           }
         },
         {
+          "SessionId": "AppServices",
           "Time": "9:30 AM - 10:20 AM",
           "Title": "App Services: Deep Dive",
           "Speaker": {
@@ -100,7 +101,8 @@
             }
           }
         },
-                {
+        {
+          "SessionId": "AzureStorage",
           "Time": "10:30 AM - 11:20 AM",
           "Title": "Azure Storage",
           "Speaker": {
@@ -111,7 +113,25 @@
               "Twitter": "http://twitter.com/thdotnet"
             }
           }
-        }  
+        },
+        {
+          "SessionId": "LunchBreak",
+          "Time": "11:30 AM - 12:20 PM",
+          "Title": "Lunch Break & Networking"
+        },
+        {
+          "SessionId": "AzureStorage",
+          "Time": "12:30 PM - 13:20 PM",
+          "Title": "Capacidades do Visual Studio e Xamarim para desenvolvimento Android, iOS e Windows 10",
+          "Speaker": {
+            "Name": "Thiago Custódio, MVP",
+            "ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
+            "Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
+            "Social": {
+              "Twitter": "http://twitter.com/thdotnet"
+            }
+          }
+        }
       ]
     },
     {
@@ -136,6 +156,26 @@
               "Website": "thiagolunardi.net"
             }
           }
+        },
+       {
+          "SessionId": "VisualStudio",
+          "Time": "9:30 AM - 10:20 AM",
+          "Title": "Como utilizar o Visual Studio para provisionar recursos no Azure",
+          "Speaker": {
+            "Name": "Gustavo Zimmermann",
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+            "Description": "Gustavo Zimmermann é profissional de TI e trabalha com ferramentas de desenvolvimento e DevOps nos últimos dois anos. Faz parte das comunidades técnicas MTAC e MCT, ",
+            "Social": {
+              "Facebook": "https://www.facebook.com/gm9br/",
+              "Twitter": "https://twitter.com/gustavopercio",
+              "Website": "http://www.gm9.com.br"
+            }
+          }
+        },
+        {
+          "SessionId": "LunchBreak",
+          "Time": "11:30 AM - 12:20 PM",
+          "Title": "Lunch Break & Networking"
         }
       ]
     },
@@ -161,6 +201,11 @@
               "Website": "thiagolunardi.net"
             }
           }
+        },
+       {
+          "SessionId": "LunchBreak",
+          "Time": "11:30 AM - 12:20 PM",
+          "Title": "Lunch Break & Networking"
         }
       ]
     },
@@ -186,6 +231,11 @@
               "Website": "thiagolunardi.net"
             }
           }
+        },
+        {
+          "SessionId": "LunchBreak",
+          "Time": "11:30 AM - 12:20 PM",
+          "Title": "Lunch Break & Networking"
         }
       ]
     }
