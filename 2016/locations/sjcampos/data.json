@@ -1,366 +1,316 @@
 {
-  "Location": {
-    "Name": "Sao Jose dos Campos",
-    "Latitude": -23.1991216,
-    "Longitude": -45.9079626,
-    "Address": "Av. Barao do Rio Branco, 882 - Jardim Esplanada, Sao Jose dos Campos - SP, 12242-800"
-  },
-  "Social": {
-    "Facebook": "https://www.facebook.com/GlobalAzureBootcampBR"
-  },
-  "Callout": {
-    "Text": "Call 4 Papers",
-    "Link": "http://bit.ly/C4PGAB16SJC",
-    "Type": "info"
-  },
- "Registration": {
-    "Text": "Inscrições Gratuitas! Vagas limitadas!",
-    "Link": "https://www.sympla.com.br/global-azure-bootcampo-2016-sao-jose-dos-campos__49892",
-    "Type": "success"
-  },
-  "Organizers": [
-    {
-      "Name": "Thiago Lunardi, MVP",
-      "Social": {
-        "Website": "thiagolunardi.net",
-        "Email": "thiago@thiagolunardi.net"
-      }
-    },
-    {
-      "Name": "Julio Arruda, MTAC",
-      "Social": {
-        "Website": "julioarruda.com.br",
-        "Email": "julio.arruda@outlook.com"
-      }
-    }
-  ],
-  "Sponsors": [
-    {
-      "Name": "Microsoft",
-      "Image": "http://www.extremetech.com/wp-content/uploads/2012/10/new-microsoft-logo-square-large.jpg",
-      "Link": "www.microsoft.com"
-    },
-    {
-      "Name": "Urmet Daruma",
-      "Image": "http://1.bp.blogspot.com/_TbfGu8AH3L4/TI5uBSnz5_I/AAAAAAAAACM/s55RNpoLzgU/s1600/Logo_Urmet_Daruma_bras.jpg",
-      "Link": "www.daruma.com.br"
-    },
-    {
-      "Name": "Pronext",
-      "Image": "http://www.pronext.com.br/assets/images/logotipo-branco.png",
-      "Link": "www.pronext.com.br"
-    },
-    {
-      "Name": "TreinaWeb",
-      "Image": "https://treinaweb-assets.s3.amazonaws.com/img/site/logo/treinaweb-index.png",
-      "Link": "https://www.treinaweb.com.br"
-    },
-    {
-      "Name": "Its4Company",
-      "Image": "https://media.licdn.com/media/AAEAAQAAAAAAAAIaAAAAJDFhNTVmMzYzLWE2YzUtNDlkYS04MmVkLTNjYWE2MTNkMGMzOA.png",
-      "Link": "https://www.its4.it"
-    }
-  ],
-  "Prizes": [
-    {
-      "ImageUrl": "https://i-1.prod-cdn.webapps.microsoft.com/r/image/view/-/5020854/respXLFixed/5/-/Lumia-435-DSIM-catalogue-orange-png.png",
-      "Link": "https://www.microsoft.com/pt-br/celulares/celular/lumia435-dual-sim/",
-      "Name": "Microsoft Lumia 435"
-    }
-  ],
-  "Tracks": [
-    {
-      "Name": "Trilha Developer",
-      "Sessions": [
-        {
-          "SessionId": "Registration",
-          "Time": "8:00 - 8:30",
-          "Title": "Checkin - Welcome coffe"
-        },
-        {
-          "SessionId": "Common1",
-          "Time": "8:30 - 9:20",
-          "Title": "Keynote - Abertura",
-          "Speaker": {
-            "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
-            "Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
-            "Social": {
-              "Facebook": "http://www.facebook.com/ThiagoLunardi",
-              "Twitter": "http://www.twitter.com/ThiagoLunardi13",
-              "Website": "http://thiagolunardi.net"
-            }
-          }
-        },
-        {
-          "SessionId": "Dev1",
-          "Time": "9:30 - 10:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Dev2",
-          "Time": "10:30 - 11:20",
-          "Title": "Azure Storage",
-          "Speaker": {
-            "Name": "Thiago Custódio, MVP",
-            "ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
-            "Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
-            "Social": {
-              "Twitter": "http://twitter.com/thdotnet"
-            }
-          }
-        },
-        {
-          "SessionId": "LunchBreak",
-          "Time": "11:30 - 12:20",
-          "Title": "Lunch Break & Networking"
-        },
-        {
-          "SessionId": "Dev3",
-          "Time": "12:30 - 13:20",
-          "Title": "App Services: Deep Dive",
-          "Speaker": {
-            "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
-            "Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
-            "Social": {
-              "Facebook": "http://www.facebook.com/ThiagoLunardi",
-              "Twitter": "http://www.twitter.com/ThiagoLunardi13",
-              "Website": "http://thiagolunardi.net"
-            }
-          }
-        },
-        {
-          "SessionId": "Dev4",
-          "Time": "13:30 - 14:20",
-          "Title": "Capacidades do Visual Studio e Xamarim para desenvolvimento Android, iOS e Windows 10",
-          "Speaker": {
-            "Name": "Gustavo Zimmermann",
-            "ImageUrl": "https://pbs.twimg.com/profile_images/645272897133649920/oWWIAPNM.jpg",
-            "Description": "Gustavo Zimmermann é profissional de TI e trabalha com ferramentas de desenvolvimento e DevOps nos últimos dois anos. Faz parte das comunidades técnicas MTAC e MCT, ",
-            "Social": {
-              "Facebook": "https://www.facebook.com/gm9br/",
-              "Twitter": "https://twitter.com/gustavopercio",
-              "Website": "http://www.gm9.com.br"
-            }
-          }
-        },
-        {
-          "SessionId": "Dev5",
-          "Time": "14:30 - 15:20",
-          "Title": "Azure WebJobs com NodeJs",
-          "Speaker": {
-            "Name": "Waldyr Felix, MVP",
-            "ImageUrl": "http://waldyrfelix.azurewebsites.net/wp-content/uploads/2013/04/waldyr_felix.jpg",
-            "Description": "Microsoft ASP.NET MVP",
-            "Social": {
-              "Facebook": "https://www.facebook.com/waldyrfelix",
-              "Twitter": "https://twitter.com/waldyrfelix",
-              "Website": "http://waldyrfelix.net"
-            }
-          }
-        },
-        {
-          "SessionId": "Dev6",
-          "Time": "15:30 - 16:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Encerramento",
-          "Time": "16:30 - 17:00",
-          "Title": "Encerramento e sorteio de brindes",
-          }
-        }
-      ]
-    },
-    {
-      "Name": "Trilha IT Pro",
-      "Sessions": [
-       {
-          "SessionId": "It1",
-          "Time": "9:30 - 10:20",
-          "Title": "Como utilizar o Visual Studio para provisionar recursos no Azure",
-          "Speaker": {
-            "Name": "Gustavo Zimmermann",
-            "ImageUrl": "https://pbs.twimg.com/profile_images/645272897133649920/oWWIAPNM.jpg",
-            "Description": "Gustavo Zimmermann é profissional de TI e trabalha com ferramentas de desenvolvimento e DevOps nos últimos dois anos. Faz parte das comunidades técnicas MTAC e MCT, ",
-            "Social": {
-              "Facebook": "https://www.facebook.com/gm9br/",
-              "Twitter": "https://twitter.com/gustavopercio",
-              "Website": "http://www.gm9.com.br"
-            }
-          }
-        },
-        {
-          "SessionId": "It2",
-          "Time": "10:30 - 11:20",
-          "Title": "Introdução ao Machine Learning",
-          "Speaker": {
-            "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
-            "Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
-            "Social": {
-              "Facebook": "http://www.facebook.com/ThiagoLunardi",
-              "Twitter": "http://www.twitter.com/ThiagoLunardi13",
-              "Website": "http://thiagolunardi.net"
-            }
-          }
-        },
-        {
-          "SessionId": "It3",
-          "Time": "12:30 - 13:20",
-          "Title": "Office 365",
-          "Speaker": {
-            "Name": "Diogo Heringer, MVP",
-            "ImageUrl": "https://diogoheringer.files.wordpress.com/2013/12/diogo_skype.png?w=134&h=134",
-            "Description": "Microsoft MVP",
-            "Social": {
-              "Facebook": "http://www.facebook.com/ThiagoLunardi",
-              "Twitter": "http://www.twitter.com/diogoheringer",
-              "Website": "http://diogoheringer.com/"
-            }
-          }
-        },
-        {
-          "SessionId": "It4",
-          "Time": "13:30 - 14:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "It5",
-          "Time": "14:30 - 15:20",
-          "Title": "À Confirmar",
-          },
-        {
-          "SessionId": "It6",
-          "Time": "15:30 - 16:20",
-          "Title": "À Confirmar",
-          }
-        }
-        }
-      ]
-    },
-    {
-      "Name": "Trilha Business",
-      "Sessions": [
-        {
-          "SessionId": "Bus1",
-          "Time": "9:30 - 10:20",
-          "Title": "Azure Stack",
-          "Speaker": {
-            "Name": "Fabio Hara",
-            "ImageUrl": "https://pbs.twimg.com/profile_images/86415466/FabioHara_400x400.jpg",
-            "Description": "Microsoft Senior Evangelist",
-            "Social": {
-              "Facebook": "www.facebook.com/fabioharamicrosoft",
-              "Twitter": "twitter.com/fabiohara",
-              "Website": "www.fabiohara.com.br"
-            }
-          }
-        },
-        {
-          "SessionId": "Bus2",
-          "Time": "10:30 - 11:20",
-          "Title": "Fundando uma TI sustentável",
-          "Speaker": {
-            "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
-            "Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
-            "Social": {
-              "Facebook": "http://www.facebook.com/ThiagoLunardi",
-              "Twitter": "http://www.twitter.com/ThiagoLunardi13",
-              "Website": "http://thiagolunardi.net"
-            }
-          }
-        },
-        {
-          "SessionId": "Bus3",
-          "Time": "12:30 - 13:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Bus4",
-          "Time": "13:30 - 14:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Bus5",
-          "Time": "14:30 - 15:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Bus6",
-          "Time": "15:30 - 16:20",
-          "Title": "À Confirmar",
-          }
-        }
-      ]
-    },
-    {
-      "Name": "Trilha Express",
-      "Sessions": [
-        {
-          "SessionId": "Ex1",
-          "Time": "9:30 - 10:20",
-          "Title": "First Steps",
-          "Speaker": {
-            "Name": "Julio Arruda, MTAC",
-            "ImageUrl": "https://pbs.twimg.com/profile_images/595191614353571841/xe_e2qau.jpg",
-            "Description": "Microsoft MTAC",
-            "Social": {
-              "Facebook": "https://www.facebook.com/julio.arrudaC/",
-              "Twitter": "twitter.com/JulioArrudaC",
-              "Website": "julioarruda.com.br"
-            }
-          }
-        },
-        {
-          "SessionId": "Ex2",
-          "Time": "10:30 - 11:20",
-          "Title": "Criando seu blog na nuvem Azure",
-          "Speaker": {
-            "Name": "Vitor Norton, MVP",
-            "ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5001646",
-            "Description": "Microsoft MTAC",
-            "Social": {
-              "Facebook": "https://www.facebook.com/vtnorton",
-              "Twitter": "twitter.com/vtnorton",
-              "Website": "vtnorton.com"
-            }
-          }
-        },
-        {
-          "SessionId": "Ex3",
-          "Time": "12:30 - 13:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Ex4",
-          "Time": "13:30 - 14:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Ex5",
-          "Time": "14:30 - 15:20",
-          "Title": "À Confirmar",
-          }
-        },
-        {
-          "SessionId": "Ex6",
-          "Time": "15:30 - 16:20",
-          "Title": "À Confirmar",
-          }
-        }        
-      ]
-    }
-  ]
-}
+	"Location": {
+		"Name": "Sao Jose dos Campos",
+		"Latitude": -23.1991216,
+		"Longitude": -45.9079626,
+		"Address": "Av. Barao do Rio Branco, 882 - Jardim Esplanada, Sao Jose dos Campos - SP, 12242-800"
+	},
+	"Social": {
+		"Facebook": "https://www.facebook.com/GlobalAzureBootcampBR"
+	},
+	"Callout": {
+		"Text": "Call 4 Papers",
+		"Link": "http://bit.ly/C4PGAB16SJC",
+		"Type": "info"
+	},
+	"Registration": {
+		"Text": "Inscrições Gratuitas! Vagas limitadas!",
+		"Link": "https://www.sympla.com.br/global-azure-bootcampo-2016-sao-jose-dos-campos__49892",
+		"Type": "success"
+	},
+	"Organizers": [{
+		"Name": "Thiago Lunardi, MVP",
+		"Social": {
+			"Website": "thiagolunardi.net",
+			"Email": "thiago@thiagolunardi.net"
+		}
+	}, {
+		"Name": "Julio Arruda, MTAC",
+		"Social": {
+			"Website": "julioarruda.com.br",
+			"Email": "julio.arruda@outlook.com"
+		}
+	}],
+	"Sponsors": [{
+		"Name": "Microsoft",
+		"Image": "http://www.extremetech.com/wp-content/uploads/2012/10/new-microsoft-logo-square-large.jpg",
+		"Link": "www.microsoft.com"
+	}, {
+		"Name": "Urmet Daruma",
+		"Image": "http://1.bp.blogspot.com/_TbfGu8AH3L4/TI5uBSnz5_I/AAAAAAAAACM/s55RNpoLzgU/s1600/Logo_Urmet_Daruma_bras.jpg",
+		"Link": "www.daruma.com.br"
+	}, {
+		"Name": "Pronext",
+		"Image": "http://www.pronext.com.br/assets/images/logotipo-branco.png",
+		"Link": "www.pronext.com.br"
+	}, {
+		"Name": "TreinaWeb",
+		"Image": "https://treinaweb-assets.s3.amazonaws.com/img/site/logo/treinaweb-index.png",
+		"Link": "https://www.treinaweb.com.br"
+	}, {
+		"Name": "Its4Company",
+		"Image": "https://media.licdn.com/media/AAEAAQAAAAAAAAIaAAAAJDFhNTVmMzYzLWE2YzUtNDlkYS04MmVkLTNjYWE2MTNkMGMzOA.png",
+		"Link": "https://www.its4.it"
+	}],
+	"Prizes": [{
+		"ImageUrl": "https://i-1.prod-cdn.webapps.microsoft.com/r/image/view/-/5020854/respXLFixed/5/-/Lumia-435-DSIM-catalogue-orange-png.png",
+		"Link": "https://www.microsoft.com/pt-br/celulares/celular/lumia435-dual-sim/",
+		"Name": "Microsoft Lumia 435"
+	}],
+	"Tracks": [{
+		"Name": "Trilha Developer",
+		"Sessions": [{
+			"SessionId": "Registration",
+			"Time": "8:00 - 8:30",
+			"Title": "Checkin - Welcome coffe"
+		}, {
+			"SessionId": "Common1",
+			"Time": "8:30 - 9:20",
+			"Title": "Keynote - Abertura",
+			"Speaker": {
+				"Name": "Thiago Lunardi, MVP",
+				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
+					"Website": "http://thiagolunardi.net"
+				}
+			}
+		}, {
+			"SessionId": "Dev1",
+			"Time": "9:30 - 10:20",
+			"Title": "À Confirmar"
 
+		}, {
+			"SessionId": "Dev2",
+			"Time": "10:30 - 11:20",
+			"Title": "Azure Storage",
+			"Speaker": {
+				"Name": "Thiago Custódio, MVP",
+				"ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
+				"Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
+				"Social": {
+					"Twitter": "http://twitter.com/thdotnet"
+				}
+			}
+		}, {
+			"SessionId": "LunchBreak",
+			"Time": "11:30 - 12:20",
+			"Title": "Lunch Break & Networking"
+		}, {
+			"SessionId": "Dev3",
+			"Time": "12:30 - 13:20",
+			"Title": "App Services: Deep Dive",
+			"Speaker": {
+				"Name": "Thiago Lunardi, MVP",
+				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
+					"Website": "http://thiagolunardi.net"
+				}
+			}
+		}, {
+			"SessionId": "Dev4",
+			"Time": "13:30 - 14:20",
+			"Title": "Capacidades do Visual Studio e Xamarim para desenvolvimento Android, iOS e Windows 10",
+			"Speaker": {
+				"Name": "Gustavo Zimmermann",
+				"ImageUrl": "https://pbs.twimg.com/profile_images/645272897133649920/oWWIAPNM.jpg",
+				"Description": "Gustavo Zimmermann é profissional de TI e trabalha com ferramentas de desenvolvimento e DevOps nos últimos dois anos. Faz parte das comunidades técnicas MTAC e MCT, ",
+				"Social": {
+					"Facebook": "https://www.facebook.com/gm9br/",
+					"Twitter": "https://twitter.com/gustavopercio",
+					"Website": "http://www.gm9.com.br"
+				}
+			}
+		}, {
+			"SessionId": "Dev5",
+			"Time": "14:30 - 15:20",
+			"Title": "Azure WebJobs com NodeJs",
+			"Speaker": {
+				"Name": "Waldyr Felix, MVP",
+				"ImageUrl": "http://waldyrfelix.azurewebsites.net/wp-content/uploads/2013/04/waldyr_felix.jpg",
+				"Description": "Microsoft ASP.NET MVP",
+				"Social": {
+					"Facebook": "https://www.facebook.com/waldyrfelix",
+					"Twitter": "https://twitter.com/waldyrfelix",
+					"Website": "http://waldyrfelix.net"
+				}
+			}
+		}, {
+			"SessionId": "Dev6",
+			"Time": "15:30 - 16:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "Encerramento",
+			"Time": "16:30 - 17:00",
+			"Title": "Encerramento e sorteio de brindes"
+
+		}]
+	}, {
+		"Name": "Trilha IT Pro",
+		"Sessions": [{
+			"SessionId": "It1",
+			"Time": "9:30 - 10:20",
+			"Title": "Como utilizar o Visual Studio para provisionar recursos no Azure",
+			"Speaker": {
+				"Name": "Gustavo Zimmermann",
+				"ImageUrl": "https://pbs.twimg.com/profile_images/645272897133649920/oWWIAPNM.jpg",
+				"Description": "Gustavo Zimmermann é profissional de TI e trabalha com ferramentas de desenvolvimento e DevOps nos últimos dois anos. Faz parte das comunidades técnicas MTAC e MCT, ",
+				"Social": {
+					"Facebook": "https://www.facebook.com/gm9br/",
+					"Twitter": "https://twitter.com/gustavopercio",
+					"Website": "http://www.gm9.com.br"
+				}
+			}
+		}, {
+			"SessionId": "It2",
+			"Time": "10:30 - 11:20",
+			"Title": "Introdução ao Machine Learning",
+			"Speaker": {
+				"Name": "Thiago Lunardi, MVP",
+				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
+					"Website": "http://thiagolunardi.net"
+				}
+			}
+		}, {
+			"SessionId": "It3",
+			"Time": "12:30 - 13:20",
+			"Title": "Office 365",
+			"Speaker": {
+				"Name": "Diogo Heringer, MVP",
+				"ImageUrl": "https://diogoheringer.files.wordpress.com/2013/12/diogo_skype.png?w=134&h=134",
+				"Description": "Microsoft MVP",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/diogoheringer",
+					"Website": "http://diogoheringer.com/"
+				}
+			}
+		}, {
+			"SessionId": "It4",
+			"Time": "13:30 - 14:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "It5",
+			"Time": "14:30 - 15:20",
+			"Title": "À Confirmar"
+		}, {
+			"SessionId": "It6",
+			"Time": "15:30 - 16:20",
+			"Title": "À Confirmar"
+
+		}]
+	}, {
+		"Name": "Trilha Business",
+		"Sessions": [{
+			"SessionId": "Bus1",
+			"Time": "9:30 - 10:20",
+			"Title": "Azure Stack",
+			"Speaker": {
+				"Name": "Fabio Hara",
+				"ImageUrl": "https://pbs.twimg.com/profile_images/86415466/FabioHara_400x400.jpg",
+				"Description": "Microsoft Senior Evangelist",
+				"Social": {
+					"Facebook": "www.facebook.com/fabioharamicrosoft",
+					"Twitter": "twitter.com/fabiohara",
+					"Website": "www.fabiohara.com.br"
+				}
+			}
+		}, {
+			"SessionId": "Bus2",
+			"Time": "10:30 - 11:20",
+			"Title": "Fundando uma TI sustentável",
+			"Speaker": {
+				"Name": "Thiago Lunardi, MVP",
+				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
+					"Website": "http://thiagolunardi.net"
+				}
+			}
+		}, {
+			"SessionId": "Bus3",
+			"Time": "12:30 - 13:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "Bus4",
+			"Time": "13:30 - 14:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "Bus5",
+			"Time": "14:30 - 15:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "Bus6",
+			"Time": "15:30 - 16:20",
+			"Title": "À Confirmar"
+
+		}]
+	}, {
+		"Name": "Trilha Express",
+		"Sessions": [{
+			"SessionId": "Ex1",
+			"Time": "9:30 - 10:20",
+			"Title": "First Steps",
+			"Speaker": {
+				"Name": "Julio Arruda, MTAC",
+				"ImageUrl": "https://pbs.twimg.com/profile_images/595191614353571841/xe_e2qau.jpg",
+				"Description": "Microsoft MTAC",
+				"Social": {
+					"Facebook": "https://www.facebook.com/julio.arrudaC/",
+					"Twitter": "twitter.com/JulioArrudaC",
+					"Website": "julioarruda.com.br"
+				}
+			}
+		}, {
+			"SessionId": "Ex2",
+			"Time": "10:30 - 11:20",
+			"Title": "Criando seu blog na nuvem Azure",
+			"Speaker": {
+				"Name": "Vitor Norton, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5001646",
+				"Description": "Microsoft MTAC",
+				"Social": {
+					"Facebook": "https://www.facebook.com/vtnorton",
+					"Twitter": "twitter.com/vtnorton",
+					"Website": "vtnorton.com"
+				}
+			}
+		}, {
+			"SessionId": "Ex3",
+			"Time": "12:30 - 13:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "Ex4",
+			"Time": "13:30 - 14:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "Ex5",
+			"Time": "14:30 - 15:20",
+			"Title": "À Confirmar"
+
+		}, {
+			"SessionId": "Ex6",
+			"Time": "15:30 - 16:20",
+			"Title": "À Confirmar"
+
+		}]
+	}]
+}
