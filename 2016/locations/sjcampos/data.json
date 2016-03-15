@@ -101,28 +101,13 @@
           }
         },
         {
-          "SessionId": "WebJobsNodeJs",
-          "Time": "11:30 - 12:20",
-          "Title": "Azure WebJobs com NodeJs",
-          "Speaker": {
-            "Name": "Waldyr Felix, MVP",
-            "ImageUrl": "http://waldyrfelix.azurewebsites.net/wp-content/uploads/2013/04/waldyr_felix.jpg",
-            "Description": "Microsoft ASP.NET MVP",
-            "Social": {
-              "Facebook": "https://www.facebook.com/waldyrfelix",
-              "Twitter": "https://twitter.com/waldyrfelix",
-              "Website": "http://waldyrfelix.net"
-            }
-          }
-        },
-        {
           "SessionId": "Lunch Break & Networking",
           "Time": "11:30 - 12:20",
           "Title": "Checkin - Welcome coffe"
         },
         {
           "SessionId": "AppServices",
-          "Time": "9:30 - 10:20",
+          "Time": "12:30 - 13:20",
           "Title": "App Services: Deep Dive",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
@@ -149,6 +134,21 @@
               "Website": "http://www.gm9.com.br"
             }
           }
+        },
+        {
+          "SessionId": "WebJobsNodeJs",
+          "Time": "14:30 - 15:20",
+          "Title": "Azure WebJobs com NodeJs",
+          "Speaker": {
+            "Name": "Waldyr Felix, MVP",
+            "ImageUrl": "http://waldyrfelix.azurewebsites.net/wp-content/uploads/2013/04/waldyr_felix.jpg",
+            "Description": "Microsoft ASP.NET MVP",
+            "Social": {
+              "Facebook": "https://www.facebook.com/waldyrfelix",
+              "Twitter": "https://twitter.com/waldyrfelix",
+              "Website": "http://waldyrfelix.net"
+            }
+          }
         }
       ]
     },
@@ -172,7 +172,7 @@
         },
         {
           "SessionId": "MachineLearning",
-          "Time": "14:30 - 15:20",
+          "Time": "10:30 - 11:20",
           "Title": "Introdução ao Machine Learning",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
@@ -182,6 +182,21 @@
               "Facebook": "http://www.facebook.com/ThiagoLunardi",
               "Twitter": "http://www.twitter.com/ThiagoLunardi13",
               "Website": "http://thiagolunardi.net"
+            }
+          }
+        },
+        {
+          "SessionId": "DiogoHeringer",
+          "Time": "12:30 - 13:20",
+          "Title": "Office 365",
+          "Speaker": {
+            "Name": "Diogo Heringer, MVP",
+            "ImageUrl": "https://diogoheringer.files.wordpress.com/2013/12/diogo_skype.png?w=134&h=134",
+            "Description": "Microsoft MVP",
+            "Social": {
+              "Facebook": "http://www.facebook.com/ThiagoLunardi",
+              "Twitter": "http://www.twitter.com/diogoheringer",
+              "Website": "http://diogoheringer.com/"
             }
           }
         }
@@ -202,21 +217,6 @@
               "Facebook": "www.facebook.com/fabioharamicrosoft",
               "Twitter": "twitter.com/fabiohara",
               "Website": "www.fabiohara.com.br"
-            }
-          }
-        },
-        {
-          "SessionId": "DiogoHeringer",
-          "Time": "10:30 - 12:20",
-          "Title": "Office 365",
-          "Speaker": {
-            "Name": "Diogo Heringer, MVP",
-            "ImageUrl": "https://diogoheringer.files.wordpress.com/2013/12/diogo_skype.png?w=134&h=134",
-            "Description": "Microsoft MVP",
-            "Social": {
-              "Facebook": "http://www.facebook.com/ThiagoLunardi",
-              "Twitter": "http://www.twitter.com/diogoheringer",
-              "Website": "http://diogoheringer.com/"
             }
           }
         },
