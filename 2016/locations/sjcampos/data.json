@@ -88,6 +88,38 @@
           }
         },
         {
+          "SessionId": "AzureStorage",
+          "Time": "10:30 - 11:20",
+          "Title": "Azure Storage",
+          "Speaker": {
+            "Name": "Thiago Custódio, MVP",
+            "ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
+            "Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
+            "Social": {
+              "Twitter": "http://twitter.com/thdotnet"
+            }
+          },
+        {
+          "SessionId": "WebJobsNodeJs",
+          "Time": "11:30 - 12:20",
+          "Title": "Azure WebJobs com NodeJs",
+          "Speaker": {
+            "Name": "Waldyr Felix, MVP",
+            "ImageUrl": "http://waldyrfelix.azurewebsites.net/wp-content/uploads/2013/04/waldyr_felix.jpg",
+            "Description": "Microsoft ASP.NET MVP",
+            "Social": {
+              "Facebook": "https://www.facebook.com/waldyrfelix",
+              "Twitter": "https://twitter.com/waldyrfelix",
+              "Website": "http://waldyrfelix.net"
+            }
+          }
+        },
+        {
+          "SessionId": "Lunch Break & Networking",
+          "Time": "11:30 - 12:20",
+          "Title": "Checkin - Welcome coffe"
+        },
+        {
           "SessionId": "AppServices",
           "Time": "9:30 - 10:20",
           "Title": "App Services: Deep Dive",
@@ -101,23 +133,6 @@
               "Website": "http://thiagolunardi.net"
             }
           }
-        },
-        {
-          "SessionId": "AzureStorage",
-          "Time": "10:30 - 11:20",
-          "Title": "Azure Storage",
-          "Speaker": {
-            "Name": "Thiago Custódio, MVP",
-            "ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
-            "Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
-            "Social": {
-              "Twitter": "http://twitter.com/thdotnet"
-            }
-          }
-        {
-          "SessionId": "Lunch Break & Networking",
-          "Time": "11:30 - 12:20",
-          "Title": "Checkin - Welcome coffe"
         },
         {
           "SessionId": "Xamarin",
