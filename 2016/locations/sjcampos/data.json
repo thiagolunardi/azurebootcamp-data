@@ -116,11 +116,6 @@
           }
         },
         {
-          "SessionId": "LunchBreak",
-          "Time": "11:30 - 12:20",
-          "Title": "Lunch Break & Networking"
-        },
-        {
           "SessionId": "Xamarin",
           "Time": "12:30 - 13:20",
           "Title": "Capacidades do Visual Studio e Xamarim para desenvolvimento Android, iOS e Windows 10",
