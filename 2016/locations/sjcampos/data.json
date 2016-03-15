@@ -93,7 +93,13 @@
           }
         },
         {
-          "SessionId": "AzureStorage",
+          "SessionId": "Dev1",
+          "Time": "9:30 - 10:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Dev2",
           "Time": "10:30 - 11:20",
           "Title": "Azure Storage",
           "Speaker": {
@@ -111,7 +117,7 @@
           "Title": "Lunch Break & Networking"
         },
         {
-          "SessionId": "AppServices",
+          "SessionId": "Dev3",
           "Time": "12:30 - 13:20",
           "Title": "App Services: Deep Dive",
           "Speaker": {
@@ -126,8 +132,8 @@
           }
         },
         {
-          "SessionId": "Xamarin",
-          "Time": "12:30 - 13:20",
+          "SessionId": "Dev4",
+          "Time": "13:30 - 14:20",
           "Title": "Capacidades do Visual Studio e Xamarim para desenvolvimento Android, iOS e Windows 10",
           "Speaker": {
             "Name": "Gustavo Zimmermann",
@@ -141,7 +147,7 @@
           }
         },
         {
-          "SessionId": "WebJobsNodeJs",
+          "SessionId": "Dev5",
           "Time": "14:30 - 15:20",
           "Title": "Azure WebJobs com NodeJs",
           "Speaker": {
@@ -154,6 +160,18 @@
               "Website": "http://waldyrfelix.net"
             }
           }
+        },
+        {
+          "SessionId": "Dev6",
+          "Time": "15:30 - 16:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Encerramento",
+          "Time": "16:30 - 17:00",
+          "Title": "Encerramento e sorteio de brindes",
+          }
         }
       ]
     },
@@ -161,7 +179,7 @@
       "Name": "Trilha IT Pro",
       "Sessions": [
        {
-          "SessionId": "VisualStudio",
+          "SessionId": "It1",
           "Time": "9:30 - 10:20",
           "Title": "Como utilizar o Visual Studio para provisionar recursos no Azure",
           "Speaker": {
@@ -176,7 +194,7 @@
           }
         },
         {
-          "SessionId": "MachineLearning",
+          "SessionId": "It2",
           "Time": "10:30 - 11:20",
           "Title": "Introdução ao Machine Learning",
           "Speaker": {
@@ -191,7 +209,7 @@
           }
         },
         {
-          "SessionId": "DiogoHeringer",
+          "SessionId": "It3",
           "Time": "12:30 - 13:20",
           "Title": "Office 365",
           "Speaker": {
@@ -204,6 +222,24 @@
               "Website": "http://diogoheringer.com/"
             }
           }
+        },
+        {
+          "SessionId": "It4",
+          "Time": "13:30 - 14:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "It5",
+          "Time": "14:30 - 15:20",
+          "Title": "À Confirmar",
+          },
+        {
+          "SessionId": "It6",
+          "Time": "15:30 - 16:20",
+          "Title": "À Confirmar",
+          }
+        }
         }
       ]
     },
@@ -211,7 +247,7 @@
       "Name": "Trilha Business",
       "Sessions": [
         {
-          "SessionId": "AzureStack",
+          "SessionId": "Bus1",
           "Time": "9:30 - 10:20",
           "Title": "Azure Stack",
           "Speaker": {
@@ -226,7 +262,7 @@
           }
         },
         {
-          "SessionId": "TISustentavel",
+          "SessionId": "Bus2",
           "Time": "10:30 - 11:20",
           "Title": "Fundando uma TI sustentável",
           "Speaker": {
@@ -239,6 +275,30 @@
               "Website": "http://thiagolunardi.net"
             }
           }
+        },
+        {
+          "SessionId": "Bus3",
+          "Time": "12:30 - 13:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Bus4",
+          "Time": "13:30 - 14:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Bus5",
+          "Time": "14:30 - 15:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Bus6",
+          "Time": "15:30 - 16:20",
+          "Title": "À Confirmar",
+          }
         }
       ]
     },
@@ -246,7 +306,7 @@
       "Name": "Trilha Express",
       "Sessions": [
         {
-          "SessionId": "StartHere",
+          "SessionId": "Ex1",
           "Time": "9:30 - 10:20",
           "Title": "First Steps",
           "Speaker": {
@@ -261,7 +321,7 @@
           }
         },
         {
-          "SessionId": "Wordpress",
+          "SessionId": "Ex2",
           "Time": "10:30 - 11:20",
           "Title": "Criando seu blog na nuvem Azure",
           "Speaker": {
@@ -273,6 +333,30 @@
               "Twitter": "twitter.com/vtnorton",
               "Website": "vtnorton.com"
             }
+          }
+        },
+        {
+          "SessionId": "Ex3",
+          "Time": "12:30 - 13:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Ex4",
+          "Time": "13:30 - 14:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Ex5",
+          "Time": "14:30 - 15:20",
+          "Title": "À Confirmar",
+          }
+        },
+        {
+          "SessionId": "Ex6",
+          "Time": "15:30 - 16:20",
+          "Title": "À Confirmar",
           }
         }        
       ]
