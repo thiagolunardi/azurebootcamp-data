@@ -248,6 +248,21 @@
           }
         },
         {
+          "SessionId": "StartHere",
+          "Time": "9:30 - 10:20",
+          "Title": "First Steps",
+          "Speaker": {
+            "Name": "Julio Arruda, MTAC",
+            "ImageUrl": "http://visualstudiosummit.com.br/visualstudiosummit/img/palestrantes/julio_arruda.jpg",
+            "Description": "Microsoft MTAC",
+            "Social": {
+              "Facebook": "https://www.facebook.com/julio.arrudaC/",
+              "Twitter": "twitter.com/JulioArrudaC",
+              "Website": "julioarruda.com.br"
+            }
+          }
+        },
+        {
           "SessionId": "LunchBreak",
           "Time": "11:30 AM - 12:20 PM",
           "Title": "Lunch Break & Networking"
