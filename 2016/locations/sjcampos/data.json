@@ -176,13 +176,13 @@
 			"Time": "10:30 - 11:20",
 			"Title": "Introdução ao Machine Learning",
 			"Speaker": {
-				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
-				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Name": "Diogo Nogare, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/4020738",
+				"Description": "MVP SQL Server desde 2008, possui as certificações MCP, MCTS, MCITP e MCT. É PASS Chapter Leader em São Paulo. Passou por grandes empresas como Deloitte, GE e Bayer. Trabalhou na fundação da SolidQ, no Brasil. Trabalhou no time de SQL Server na Microsoft, no Brasil, engajado no lançamento do SQL Server 2012. Atualmente trabalha como responsável por projetos de Business Intelligence no portal Minha Vida. É palestrante em eventos da Microsoft, Codificando .NET, INETA BR e PASS.",
 				"Social": {
-					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
-					"Website": "http://thiagolunardi.net"
+					"Facebook": "https://www.facebook.com/DiegoNogare",
+					"Twitter": "https://twitter.com/DiegoNogare",
+					"Website": "www.diegonogare.net"
 				}
 			}
 		}, {
