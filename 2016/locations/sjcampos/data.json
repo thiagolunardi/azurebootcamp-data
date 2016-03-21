@@ -147,8 +147,17 @@
 		}, {
 			"SessionId": "Dev6",
 			"Time": "15:30 - 16:20",
-			"Title": "À Confirmar"
-
+			"Title": "Azure IOT Hub: Internet das Coisas",
+			"Speaker": {
+				"Name": "Djonatas Tenfen, MTAC",
+				"ImageUrl": "https://avatars2.githubusercontent.com/u/124771",
+				"Description": "Microsoft MTAC",
+				"Social": {
+					"Facebook": "facebook.com/djonatas",
+					"Twitter": "https://twitter.com/djonatas",
+					"Website": "http://djonatas.com.br"
+				}
+			}
 		}, {
 			"SessionId": "Encerramento",
 			"Time": "16:30 - 17:00",
