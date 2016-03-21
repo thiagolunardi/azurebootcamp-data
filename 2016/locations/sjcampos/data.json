@@ -188,11 +188,11 @@
 		}, {
 			"SessionId": "It3",
 			"Time": "12:30 - 13:20",
-			"Title": "Office 365",
+			"Title": "SharePoint",
 			"Speaker": {
-				"Name": "Diogo Heringer, MVP",
-				"ImageUrl": "https://diogoheringer.files.wordpress.com/2013/12/diogo_skype.png?w=134&h=134",
-				"Description": "Microsoft MVP",
+				"Name": "Heber Lopes, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000236",
+				"Description": "Consultor em Sistemas de Colaboração e Portais, atua desde 1998 na área de Tecnologia da Informação e Comunicação. Participou de vários projetos de implantação de Microsoft SharePoint em multinacionais como Embraer, Vale Soluções em Energia, Marinha do Brasil, Tenaris Confab entre outras empresas. É engenheiro de Sistemas Certificado pela Microsoft, com 9 anos de experiencia em Microsoft SharePoint e Soluções de Produtividade da Microsoft. Atua como Evangelista SharePoint realizando Eventos, escrevendo Artigos Técnicos nas principais comunidades de SharePoint e realizando Treinamentos gratuitos com objetivo de disseminar o potencial do produto.",
 				"Social": {
 					"Facebook": "http://www.facebook.com/ThiagoLunardi",
 					"Twitter": "http://www.twitter.com/diogoheringer",
@@ -202,8 +202,17 @@
 		}, {
 			"SessionId": "It4",
 			"Time": "13:30 - 14:20",
-			"Title": "À Confirmar"
-
+			"Title": "Office 365",
+			"Speaker": {
+				"Name": "Diogo Heringer, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000802",
+				"Description": "Teve início na carreira no ano de 2007, atualmente trabalha como Consultor de TI na Brasoftware. Sua especialidade é Unified Communications e Cloud Services. Atua também como instrutor de treinamentos oficiais Microsoft (MCT) das ferramentas o qual é especialista. Certificações: MVP - Office 365 MCT MCSA: 2003 Server MCITP: Enterprise Messaging MCITP: Office 365 Administrator MCITP: Enterprise Administrator MCITP: Virtualization Administrator MCITP: Server Administrator MCTS Technical Speaker no “Learning365″.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/diogoheringer",
+					"Website": "http://diogoheringer.com/"
+				}
+			}
 		}, {
 			"SessionId": "It5",
 			"Time": "14:30 - 15:20",
