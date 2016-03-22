@@ -133,15 +133,15 @@
 		}, {
 			"SessionId": "Dev5",
 			"Time": "14:30 - 15:20",
-			"Title": "Azure WebJobs com NodeJs",
+			"Title": "Como trabalhar com PHP e aproveitar vários recursos do Azure programáticamente",
 			"Speaker": {
-				"Name": "Waldyr Felix, MVP",
-				"ImageUrl": "http://waldyrfelix.azurewebsites.net/wp-content/uploads/2013/04/waldyr_felix.jpg",
-				"Description": "Microsoft ASP.NET MVP",
+				"Name": "Priscila Sato, MTAC",
+				"ImageUrl": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/10409363_817616138260776_3470843139629505081_n.jpg?oh=edc13c46a3d4be96ab0efe1ba7f1b36a&oe=57517403&__gda__=1469139961_ba4f1df52431606b4bcf58e13311080c",
+				"Description": "Graduada em Análise e Desenvolvimento de Sistemas, com a insígnia de Intel Brown Belt, ex MCC (Microsoft Community Contributor) e atualmente MTAC (Microsoft Technical Audience Contributor).",
 				"Social": {
-					"Facebook": "https://www.facebook.com/waldyrfelix",
-					"Twitter": "https://twitter.com/waldyrfelix",
-					"Website": "http://waldyrfelix.net"
+					"Facebook": "https://www.facebook.com/priscilamayumisato",
+					"Twitter": "https://twitter.com/@MayogaX",
+					"Website": "http://www.dev.mayogax.com"
 				}
 			}
 		}, {
