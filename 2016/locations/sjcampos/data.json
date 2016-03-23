@@ -30,6 +30,12 @@
 			"Website": "julioarruda.com.br",
 			"Email": "julio.arruda@outlook.com"
 		}
+	}, {
+		"Name": "Heber Lopes, MVP",
+		"Social": {
+			"Website": "heberlopes.com.br",
+			"Email": "heber.lopes@pronext.com.br"
+		}
 	}],
 	"Sponsors": [{
 		"Name": "Microsoft",
@@ -265,7 +271,15 @@
 		}, {
 			"SessionId": "Bus3",
 			"Time": "12:30 - 13:20",
-			"Title": "À Confirmar"
+			"Title": "Gateway IOT para produtos e negócios",
+			"Speaker": {
+				"Name": "Claudenir Andrade, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/7863",
+				"Description": "Diretor Integração Tecnológica e Pré-Venda Daruam Tecnologia| MVP, Regional Director Microsoft",
+				"Social": {
+					"Website": "https://mvp.microsoft.com/pt-br/PublicProfile/7863"
+				}
+			}
 
 		}, {
 			"SessionId": "Bus4",
