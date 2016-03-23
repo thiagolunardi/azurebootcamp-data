@@ -231,7 +231,17 @@
 		}, {
 			"SessionId": "It5",
 			"Time": "14:30 - 15:20",
-			"Title": "À Confirmar"
+			"Title": "Cenários práticos de nuvem hibrida do System Center + Microsoft Operations Management Suite + Azure",
+			"Speaker": {
+				"Name": "Josue Vidal, MVP",
+				"ImageUrl": "https://pbs.twimg.com/profile_images/1296379765/DSCN0147.JPG",
+				"Description": "Palestrante, Instrutor, Arquiteto Sênior de Computação de Nuvem Hibrida, Trabalha na Área de Tecnologia da Informação há mais de 15 anos, Especializado em Windows",
+				"Social": {
+					"Facebook": "https://www.facebook.com/josuevidaloficial",
+					"Twitter": "http://www.twitter.com/josuevidall",
+					"Website": "https://josuevidal.wordpress.com"
+				}
+			}
 		}, {
 			"SessionId": "It6",
 			"Time": "15:30 - 16:20",
