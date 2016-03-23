@@ -34,15 +34,15 @@
 	"Sponsors": [{
 		"Name": "Microsoft",
 		"Image": "http://www.extremetech.com/wp-content/uploads/2012/10/new-microsoft-logo-square-large.jpg",
-		"Link": "www.microsoft.com"
+		"Link": "http://www.microsoft.com"
 	}, {
 		"Name": "Urmet Daruma",
 		"Image": "http://1.bp.blogspot.com/_TbfGu8AH3L4/TI5uBSnz5_I/AAAAAAAAACM/s55RNpoLzgU/s1600/Logo_Urmet_Daruma_bras.jpg",
-		"Link": "www.daruma.com.br"
+		"Link": "http://www.daruma.com.br"
 	}, {
 		"Name": "Pronext",
 		"Image": "http://www.pronext.com.br/assets/images/logotipo-branco.png",
-		"Link": "www.pronext.com.br"
+		"Link": "http://www.pronext.com.br"
 	}, {
 		"Name": "TreinaWeb",
 		"Image": "https://treinaweb-assets.s3.amazonaws.com/img/site/logo/treinaweb-index.png",
@@ -306,7 +306,7 @@
 			"Speaker": {
 				"Name": "Vitor Norton, MVP",
 				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5001646",
-				"Description": "Microsoft MTAC",
+				"Description": "Microsoft MVP em Windows Experience, desenvolvedor de aplicativos para Windows e Web, e editor chefe de um dos maiores sites de notícias da Microsoft do Brasil o vNext BR.",
 				"Social": {
 					"Facebook": "https://www.facebook.com/vtnorton",
 					"Twitter": "twitter.com/vtnorton",
