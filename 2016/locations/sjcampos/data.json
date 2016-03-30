@@ -198,15 +198,15 @@
 		}, {
 			"SessionId": "It2",
 			"Time": "10:30 - 11:20",
-			"Title": "Introdução ao Machine Learning",
+			"Title": "Office 365",
 			"Speaker": {
-				"Name": "Diogo Nogare, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/4020738",
-				"Description": "MVP SQL Server desde 2008, possui as certificações MCP, MCTS, MCITP e MCT. É PASS Chapter Leader em São Paulo. Passou por grandes empresas como Deloitte, GE e Bayer. Trabalhou na fundação da SolidQ, no Brasil. Trabalhou no time de SQL Server na Microsoft, no Brasil, engajado no lançamento do SQL Server 2012. Atualmente trabalha como responsável por projetos de Business Intelligence no portal Minha Vida. É palestrante em eventos da Microsoft, Codificando .NET, INETA BR e PASS.",
+				"Name": "Diogo Heringer, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000802",
+				"Description": "Teve início na carreira no ano de 2007, atualmente trabalha como Consultor de TI na Brasoftware. Sua especialidade é Unified Communications e Cloud Services. Atua também como instrutor de treinamentos oficiais Microsoft (MCT) das ferramentas o qual é especialista. Certificações: MVP - Office 365 MCT MCSA: 2003 Server MCITP: Enterprise Messaging MCITP: Office 365 Administrator MCITP: Enterprise Administrator MCITP: Virtualization Administrator MCITP: Server Administrator MCTS Technical Speaker no “Learning365″.",
 				"Social": {
-					"Facebook": "https://www.facebook.com/DiegoNogare",
-					"Twitter": "https://twitter.com/DiegoNogare",
-					"Website": "www.diegonogare.net"
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/diogoheringer",
+					"Website": "http://diogoheringer.com/"
 				}
 			}
 		}, {
@@ -226,15 +226,15 @@
 		}, {
 			"SessionId": "It4",
 			"Time": "13:30 - 14:20",
-			"Title": "Office 365",
+			"Title": "Introdução ao Machine Learning",
 			"Speaker": {
-				"Name": "Diogo Heringer, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000802",
-				"Description": "Teve início na carreira no ano de 2007, atualmente trabalha como Consultor de TI na Brasoftware. Sua especialidade é Unified Communications e Cloud Services. Atua também como instrutor de treinamentos oficiais Microsoft (MCT) das ferramentas o qual é especialista. Certificações: MVP - Office 365 MCT MCSA: 2003 Server MCITP: Enterprise Messaging MCITP: Office 365 Administrator MCITP: Enterprise Administrator MCITP: Virtualization Administrator MCITP: Server Administrator MCTS Technical Speaker no “Learning365″.",
+				"Name": "Diogo Nogare, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/4020738",
+				"Description": "MVP SQL Server desde 2008, possui as certificações MCP, MCTS, MCITP e MCT. É PASS Chapter Leader em São Paulo. Passou por grandes empresas como Deloitte, GE e Bayer. Trabalhou na fundação da SolidQ, no Brasil. Trabalhou no time de SQL Server na Microsoft, no Brasil, engajado no lançamento do SQL Server 2012. Atualmente trabalha como responsável por projetos de Business Intelligence no portal Minha Vida. É palestrante em eventos da Microsoft, Codificando .NET, INETA BR e PASS.",
 				"Social": {
-					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/diogoheringer",
-					"Website": "http://diogoheringer.com/"
+					"Facebook": "https://www.facebook.com/DiegoNogare",
+					"Twitter": "https://twitter.com/DiegoNogare",
+					"Website": "www.diegonogare.net"
 				}
 			}
 		}, {
@@ -318,7 +318,7 @@
 		}, {
 			"SessionId": "Bus5",
 			"Time": "14:30 - 15:20",
-			"Title": "Monitorando seu Datacenter com Foglight"
+			"Title": "Monitorando seu Datacenter com Dell Foglight"
 		}, {
 			"SessionId": "Bus6",
 			"Time": "15:30 - 16:20",
@@ -358,7 +358,7 @@
 		}, {
 			"SessionId": "Ex3",
 			"Time": "12:30 - 13:20",
-			"Title": "À Confirmar"
+			"Title": "Provisionando sua própria Máquina Virtual"
 
 		}, {
 			"SessionId": "Ex4",
