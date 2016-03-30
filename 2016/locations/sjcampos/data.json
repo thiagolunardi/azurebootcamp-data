@@ -303,13 +303,22 @@
 		}, {
 			"SessionId": "Bus4",
 			"Time": "13:30 - 14:20",
-			"Title": "À Confirmar"
+			"Title": "Gestão Eletrônica de Documentos com SharePoint em Cloud",
+			"Speaker": {
+				"Name": "Heber Lopes, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000236",
+				"Description": "Consultor em Sistemas de Colaboração e Portais, atua desde 1998 na área de Tecnologia da Informação e Comunicação. Participou de vários projetos de implantação de Microsoft SharePoint em multinacionais como Embraer, Vale Soluções em Energia, Marinha do Brasil, Tenaris Confab entre outras empresas. É engenheiro de Sistemas Certificado pela Microsoft, com 9 anos de experiencia em Microsoft SharePoint e Soluções de Produtividade da Microsoft. Atua como Evangelista SharePoint realizando Eventos, escrevendo Artigos Técnicos nas principais comunidades de SharePoint e realizando Treinamentos gratuitos com objetivo de disseminar o potencial do produto.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/diogoheringer",
+					"Website": "http://diogoheringer.com/"
+				}
+			}
 
 		}, {
 			"SessionId": "Bus5",
 			"Time": "14:30 - 15:20",
-			"Title": "À Confirmar"
-
+			"Title": "Monitorando seu Datacenter com Foglight"
 		}, {
 			"SessionId": "Bus6",
 			"Time": "15:30 - 16:20",
