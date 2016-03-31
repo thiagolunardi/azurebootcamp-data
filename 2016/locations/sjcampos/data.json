@@ -104,15 +104,13 @@
 		}, {
 			"SessionId": "Dev2",
 			"Time": "10:30 - 11:20",
-			"Title": "Desenvolvimento de Aplicativos com SharePoint",
+			"Title": "Azure Storage",
 			"Speaker": {
-				"Name": "Douglas Romão, MTAC",
-				"ImageUrl": "http://onedaybaixada.com/img/team/dromao.jpg",
-				"Description": "Microsoft MTAC",
+				"Name": "Thiago Custódio, MVP",
+				"ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
+				"Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
 				"Social": {
-					"Twitter": "http://twitter.com/DouglasRomao",
-					"Facebook": "https://www.facebook.com/dougromao",
-					"Website": "http://douglasromao.wordpress.com"
+					"Twitter": "http://twitter.com/thdotnet"
 				}
 			}
 		}, {
@@ -164,13 +162,15 @@
 		}, {
 			"SessionId": "Dev6",
 			"Time": "15:30 - 16:20",
-			"Title": "Azure Storage",
+			"Title": "Desenvolvimento de Aplicativos com SharePoint",
 			"Speaker": {
-				"Name": "Thiago Custódio, MVP",
-				"ImageUrl": "https://pbs.twimg.com/profile_images/583318294704181248/YeKh7R9R.png",
-				"Description": "Microsoft MVP Azure, Engenheiro de Software, Instrutor, Autor, Palestrante.",
+				"Name": "Douglas Romão, MTAC",
+				"ImageUrl": "http://onedaybaixada.com/img/team/dromao.jpg",
+				"Description": "Microsoft MTAC",
 				"Social": {
-					"Twitter": "http://twitter.com/thdotnet"
+					"Twitter": "http://twitter.com/DouglasRomao",
+					"Facebook": "https://www.facebook.com/dougromao",
+					"Website": "http://douglasromao.wordpress.com"
 				}
 			}
 		}, {
