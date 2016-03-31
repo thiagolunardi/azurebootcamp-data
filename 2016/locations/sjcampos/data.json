@@ -372,7 +372,7 @@
 		}, {
 			"SessionId": "Ex4",
 			"Time": "13:30 - 14:20",
-			"Title": "Publicando seu website na nuvem com Azure WebApp"
+			"Title": "Publicando seu website na nuvem com Azure WebApp",
 			"Speaker": {
 				"Name": "Douglas Romão, MTAC",
 				"ImageUrl": "http://onedaybaixada.com/img/team/dromao.jpg",
@@ -386,7 +386,7 @@
 		}, {
 			"SessionId": "Ex5",
 			"Time": "14:30 - 15:20",
-			"Title": "Aumentando performance do seu website em escala global com Azure CDN"
+			"Title": "Aumentando performance do seu website em escala global com Azure CDN",
 			"Speaker": {
 				"Name": "Thiago Lunardi, MVP",
 				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
