@@ -367,8 +367,17 @@
 		}, {
 			"SessionId": "Ex3",
 			"Time": "12:30 - 13:20",
-			"Title": "Provisionando sua própria Máquina Virtual"
-
+			"Title": "Provisionando sua própria Máquina Virtual",
+			"Speaker": {
+				"Name": "Julio Arruda, MTAC",
+				"ImageUrl": "http://visualstudiosummit.com.br/visualstudiosummit/img/palestrantes/julio_arruda.jpg",
+				"Description": "Microsoft MTAC",
+				"Social": {
+					"Facebook": "https://www.facebook.com/julio.arrudaC/",
+					"Twitter": "twitter.com/JulioArrudaC",
+					"Website": "julioarruda.com.br"
+				}
+			}
 		}, {
 			"SessionId": "Ex4",
 			"Time": "13:30 - 14:20",
