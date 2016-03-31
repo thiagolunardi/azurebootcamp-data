@@ -331,7 +331,7 @@
 		}, {
 			"SessionId": "Bus6",
 			"Time": "15:30 - 16:20",
-			"Title": "À Confirmar"
+			"Title": "Case de Sucesso"
 
 		}]
 	}, {
@@ -401,8 +401,17 @@
 		}, {
 			"SessionId": "Ex6",
 			"Time": "15:30 - 16:20",
-			"Title": "À Confirmar"
-
+			"Title": "Certificações e Títulos Oficiais Microsoft Azure",
+			"Speaker": {
+				"Name": "Julio Arruda, MTAC",
+				"ImageUrl": "http://visualstudiosummit.com.br/visualstudiosummit/img/palestrantes/julio_arruda.jpg",
+				"Description": "Microsoft MTAC",
+				"Social": {
+					"Facebook": "https://www.facebook.com/julio.arrudaC/",
+					"Twitter": "twitter.com/JulioArrudaC",
+					"Website": "julioarruda.com.br"
+				}
+			}
 		}]
 	}]
 }
