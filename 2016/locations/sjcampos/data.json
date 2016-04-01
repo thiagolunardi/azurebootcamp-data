@@ -322,7 +322,6 @@
 					"Website": "http://diogoheringer.com/"
 				}
 			}
-
 		}, {
 			"SessionId": "Bus5",
 			"Time": "14:30 - 15:20",
@@ -330,8 +329,17 @@
 		}, {
 			"SessionId": "Bus6",
 			"Time": "15:30 - 16:20",
-			"Title": "Case de Sucesso"
-
+			"Title": "Alta Disponibilidade com Microsoft Windows Server 2016",
+			"Speaker": {
+				"Name": "Rafael Bernardes, MVP",
+				"ImageUrl": "http://imagens.bernardes.org/rafael_bernardes/05_reduzida.jpg",
+				"Description": "Especialista em Cluster desde 2013, Rafael é um eterno curioso, e tem um grande interesse técnico também por Hyper-V e System Center Cloud and Datacenter Management. Ele almeja aplicar todo o seu conhecimento com vídeos para o MVA e também disseminar conteúdo técnico como MVP Mentor, sempre participando ativamente da comunidade e inspirando novos estudantes.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/portalcooperati",
+					"Twitter": "https://twitter.com/bernardesrafael",
+					"Website": "http://www.bernardes.com.br/"
+				}
+			}
 		}]
 	}, {
 		"Name": "Trilha Express",
