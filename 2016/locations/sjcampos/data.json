@@ -62,7 +62,7 @@
 		"Link": "http://www.wownutrition.com.br/"
 	}, {
 		"Name": "Dell Software",
-		"Image": "https://github.com/thiagolunardi/azurebootcamp-data/blob/master/2016/locations/sjcampos/Dell%20Software.png",
+		"Image": "https://raw.githubusercontent.com/thiagolunardi/azurebootcamp-data/master/2016/locations/sjcampos/DellSoftware.png",
 		"Link": "http://software.dell.com/br-pt/"
 	}],
 	
