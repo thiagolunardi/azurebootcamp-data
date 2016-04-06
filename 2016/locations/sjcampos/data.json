@@ -60,7 +60,13 @@
 		"Name": "WOW Nutrition",
 		"Image": "http://www.p3k.com.br/assets/NewLogoWOW_RGB_BAIXA-300x160.jpg",
 		"Link": "http://www.wownutrition.com.br/"
+	}, {
+		"Name": "Dell",
+		"Image": "http://www.eyestream.org/eduverse/images/DELL-logo.gif",
+		"Link": "http://www.dell.com.br/"
 	}],
+	
+	
 	"Prizes": [{
 		"ImageUrl": "https://i-1.prod-cdn.webapps.microsoft.com/r/image/view/-/5020854/respXLFixed/5/-/Lumia-435-DSIM-catalogue-orange-png.png",
 		"Link": "https://www.microsoft.com/pt-br/celulares/celular/lumia435-dual-sim/",
