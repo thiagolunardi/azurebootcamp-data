@@ -182,7 +182,6 @@
 			"SessionId": "Encerramento",
 			"Time": "16:30 - 17:00",
 			"Title": "Encerramento e sorteio de brindes"
-
 		}]
 	}, {
 		"Name": "Trilha IT Pro",
@@ -317,11 +316,27 @@
 		}, {
 			"SessionId": "Bus4",
 			"Time": "13:30 - 14:20",
-			"Title": "Monitorando seu Datacenter com Dell Foglight"
+			"Title": "Monitorando seu Datacenter com Dell Foglight",
+			"Speaker": {
+				"Name": "Marcio Moreno, Dell Software",
+				"ImageUrl": "https://media.licdn.com/media/p/5/005/08b/216/2345fd7.jpg",
+				"Description": "Dell SW Sales Account Executive - Information Management",
+				"Social": {
+					"Website": "https://br.linkedin.com/in/marcio-moreno-barbosa-aaa6b5/pt"
+				}
+			}
 		}, {
 			"SessionId": "Bus5",
 			"Time": "14:30 - 15:20",
-			"Title": "Protejendo seu Datacenter com Dell Data Protection"
+			"Title": "Protejendo seu Datacenter com Dell Data Protection",
+			"Speaker": {
+				"Name": "Celso Bonilha, Dell Software",
+				"ImageUrl": "https://media.licdn.com/media/p/4/000/145/3a7/2db0404.jpg",
+				"Description": "Dell Software Brand Manager - LATAM at Dell",
+				"Social": {
+					"Website": "https://br.linkedin.com/in/celsobonilha/pt"
+				}
+			}
 		}, {
 			"SessionId": "Bus6",
 			"Time": "15:30 - 16:20",
