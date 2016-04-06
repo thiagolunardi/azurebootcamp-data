@@ -189,6 +189,20 @@
 		"Sessions": [{
 			"SessionId": "It1",
 			"Time": "9:30 - 10:20",
+			"Title": "App Services: Deep Dive",
+			"Speaker": {
+				"Name": "Thiago Lunardi, MVP",
+				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Social": {
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
+					"Website": "http://thiagolunardi.net"
+				}
+			}
+		}, {
+			"SessionId": "It2",
+			"Time": "10:30 - 11:20",
 			"Title": "Introdução ao Machine Learning",
 			"Speaker": {
 				"Name": "Diego Nogare, MVP",
@@ -198,20 +212,6 @@
 					"Facebook": "https://www.facebook.com/DiegoNogare",
 					"Twitter": "https://twitter.com/DiegoNogare",
 					"Website": "www.diegonogare.net"
-				}
-			}
-		}, {
-			"SessionId": "It2",
-			"Time": "10:30 - 11:20",
-			"Title": "Office 365",
-			"Speaker": {
-				"Name": "Diogo Heringer, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000802",
-				"Description": "Teve início na carreira no ano de 2007, atualmente trabalha como Consultor de TI na Brasoftware. Sua especialidade é Unified Communications e Cloud Services. Atua também como instrutor de treinamentos oficiais Microsoft (MCT) das ferramentas o qual é especialista. Certificações: MVP - Office 365 MCT MCSA: 2003 Server MCITP: Enterprise Messaging MCITP: Office 365 Administrator MCITP: Enterprise Administrator MCITP: Virtualization Administrator MCITP: Server Administrator MCTS Technical Speaker no “Learning365″.",
-				"Social": {
-					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/diogoheringer",
-					"Website": "http://diogoheringer.com/"
 				}
 			}
 		}, {
@@ -231,15 +231,15 @@
 		}, {
 			"SessionId": "It4",
 			"Time": "13:30 - 14:20",
-			"Title": "Fazendo deploy em massa de webapps e database no Azure com Release Management",
+			"Title": "Office 365",
 			"Speaker": {
-				"Name": "Julio Arruda, MTAC",
-				"ImageUrl": "https://scontent-gru2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12670752_820504361411779_7123636185177233392_n.jpg?oh=8a86f69e0701b81b36dc28ed5b26dcf5&oe=5789181A",
-				"Description": "Microsoft MTAC",
+				"Name": "Diogo Heringer, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000802",
+				"Description": "Teve início na carreira no ano de 2007, atualmente trabalha como Consultor de TI na Brasoftware. Sua especialidade é Unified Communications e Cloud Services. Atua também como instrutor de treinamentos oficiais Microsoft (MCT) das ferramentas o qual é especialista. Certificações: MVP - Office 365 MCT MCSA: 2003 Server MCITP: Enterprise Messaging MCITP: Office 365 Administrator MCITP: Enterprise Administrator MCITP: Virtualization Administrator MCITP: Server Administrator MCTS Technical Speaker no “Learning365″.",
 				"Social": {
-					"Facebook": "https://www.facebook.com/julio.arrudaC/",
-					"Twitter": "twitter.com/JulioArrudaC",
-					"Website": "julioarruda.com.br"
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/diogoheringer",
+					"Website": "http://diogoheringer.com/"
 				}
 			}
 		}, {
@@ -259,15 +259,15 @@
 		}, {
 			"SessionId": "It6",
 			"Time": "15:30 - 16:20",
-			"Title": "App Services: Deep Dive",
+			"Title": "Fazendo deploy em massa de webapps e database no Azure com Release Management",
 			"Speaker": {
-				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
-				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Name": "Julio Arruda, MTAC",
+				"ImageUrl": "https://scontent-gru2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12670752_820504361411779_7123636185177233392_n.jpg?oh=8a86f69e0701b81b36dc28ed5b26dcf5&oe=5789181A",
+				"Description": "Microsoft MTAC",
 				"Social": {
-					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
-					"Website": "http://thiagolunardi.net"
+					"Facebook": "https://www.facebook.com/julio.arrudaC/",
+					"Twitter": "twitter.com/JulioArrudaC",
+					"Website": "julioarruda.com.br"
 				}
 			}
 		}]
@@ -276,15 +276,15 @@
 		"Sessions": [{
 			"SessionId": "Bus1",
 			"Time": "9:30 - 10:20",
-			"Title": "Automatizando Recursos e Rateio Custos em TI",
+			"Title": "Gestão Eletrônica de Documentos com SharePoint em Cloud",
 			"Speaker": {
-				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
-				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
+				"Name": "Heber Lopes, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000236",
+				"Description": "Consultor em Sistemas de Colaboração e Portais, atua desde 1998 na área de Tecnologia da Informação e Comunicação. Participou de vários projetos de implantação de Microsoft SharePoint em multinacionais como Embraer, Vale Soluções em Energia, Marinha do Brasil, Tenaris Confab entre outras empresas. É engenheiro de Sistemas Certificado pela Microsoft, com 9 anos de experiencia em Microsoft SharePoint e Soluções de Produtividade da Microsoft. Atua como Evangelista SharePoint realizando Eventos, escrevendo Artigos Técnicos nas principais comunidades de SharePoint e realizando Treinamentos gratuitos com objetivo de disseminar o potencial do produto.",
 				"Social": {
 					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
-					"Website": "http://thiagolunardi.net"
+					"Twitter": "http://www.twitter.com/diogoheringer",
+					"Website": "http://diogoheringer.com/"
 				}
 			}
 		}, {
@@ -317,17 +317,7 @@
 		}, {
 			"SessionId": "Bus4",
 			"Time": "13:30 - 14:20",
-			"Title": "Gestão Eletrônica de Documentos com SharePoint em Cloud",
-			"Speaker": {
-				"Name": "Heber Lopes, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000236",
-				"Description": "Consultor em Sistemas de Colaboração e Portais, atua desde 1998 na área de Tecnologia da Informação e Comunicação. Participou de vários projetos de implantação de Microsoft SharePoint em multinacionais como Embraer, Vale Soluções em Energia, Marinha do Brasil, Tenaris Confab entre outras empresas. É engenheiro de Sistemas Certificado pela Microsoft, com 9 anos de experiencia em Microsoft SharePoint e Soluções de Produtividade da Microsoft. Atua como Evangelista SharePoint realizando Eventos, escrevendo Artigos Técnicos nas principais comunidades de SharePoint e realizando Treinamentos gratuitos com objetivo de disseminar o potencial do produto.",
-				"Social": {
-					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/diogoheringer",
-					"Website": "http://diogoheringer.com/"
-				}
-			}
+			"Title": "Protejendo seu Datacenter com Dell Data Protection"
 		}, {
 			"SessionId": "Bus5",
 			"Time": "14:30 - 15:20",
