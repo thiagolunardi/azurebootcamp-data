@@ -218,13 +218,13 @@
 			"Time": "12:30 - 13:20",
 			"Title": "Banco de Dados de Gerenciamento de Configuração em SharePoint - CMDB",
 			"Speaker": {
-				"Name": "Heber Lopes, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000236",
-				"Description": "Engenheiro de Sistemas certificado pela Microsoft, com títulos MCP, MCSA, MCSE, MCTS e MVP, atua desde 1998 na área de Tecnologia da Informação, sendo responsável pela arquitetura de soluções em diversos projetos em empresas como: Embraer, Vale, Marinha, Odebrecht, Tenaris, Safran entre outras. Com sólida experiência em Soluções de Produtividade e Gerenciamento de Projetos, atua como evangelista de tecnologia realizando eventos, escrevendo artigos e treinamentos com objetivo de disseminar conhecimento na área.",
+				"Name": "Allisson Scalco, MBA",
+				"ImageUrl": "https://raw.githubusercontent.com/thiagolunardi/azurebootcamp-data/master/2016/locations/sjcampos/AllissonEvento.jpg",
+				"Description": "MBA em Gestão de Tecnologia da Informação, atua como consultor no seguimento de infraestrutura de servidores Microsoft e metodologias de gerenciamento com as plataformas SharePoint e Project Server.",
 				"Social": {
-					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/diogoheringer",
-					"Website": "http://diogoheringer.com/"
+					"Facebook": "https://www.facebook.com/allisson.deleuterio",
+					"Twitter": "https://twitter.com/feronight",
+					"Website": "http://www.pronext.com.br/"
 				}
 			}
 		}, {
