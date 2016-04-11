@@ -68,9 +68,45 @@
 	
 	
 	"Prizes": [{
-		"ImageUrl": "https://i-1.prod-cdn.webapps.microsoft.com/r/image/view/-/5020854/respXLFixed/5/-/Lumia-435-DSIM-catalogue-orange-png.png",
-		"Link": "https://www.microsoft.com/pt-br/celulares/celular/lumia435-dual-sim/",
-		"Name": "Microsoft Lumia 435"
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/BlueSyntax-300x70.gif",
+		"Link": "http://www.bluesyntaxconsulting.com/",
+		"Name": "Blue Syntax"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CloudMonix-Orange-cropped-300x61.png",
+		"Link": "http://t.sidekickopen44.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJN7t5XZsRJd4KW653klz8qC9zTW8qlQyH56dPVjf6FcF1v02?t=http%3A%2F%2Fcloudmonix.com%2F%3Futm_source%3Dgab2016%26utm_medium%3Dweb%26utm_campaign%3Dgab2016&si=5852753167646720&pi=39f766c2-487e-4caa-8017-da8234ca83ea",
+		"Name": "CloudMonix"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2013/02/logowhitecloud-300x202.png",
+		"Link": "http://www.cloudberrylab.com/",
+		"Name": "CloudBerryLab"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/azuredockitlogo_bluetext-300x188.png",
+		"Link": "http://www.azuredockit.com/",
+		"Name": "Azure Dockit"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2013/02/image8.png",
+		"Link": "http://global.azurebootcamp.net/wp-content/uploads/2013/02/image8.png",
+		"Name": "MyGet"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/JBwo_JetBrains_2.png",
+		"Link": "http://www.jetbrains.com/",
+		"Name": "JetBrains"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
+		"Link": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
+		"Name": "CODE Magazine"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2014/02/opscloud-black-187x52.png",
+		"Link": "https://www.opsgility.com/",
+		"Name": "Opsgility"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/04/sqlsentry.png",
+		"Link": "http://www.sqlsentry.com/",
+		"Name": "SQL Sentry"
+	},{
+		"ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/04/logo_barracuda_main_for-light-backgrounds-300x105.png",
+		"Link": "https://www.barracuda.com/",
+		"Name": "Barracuda"
 	}],
 	"Tracks": [{
 		"Name": "Trilha Developer",
