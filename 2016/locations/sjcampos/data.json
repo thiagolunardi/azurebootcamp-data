@@ -409,13 +409,13 @@
 			"Time": "10:30 - 11:20",
 			"Title": "Criando seu blog na nuvem Azure",
 			"Speaker": {
-				"Name": "Vitor Norton, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5001646",
-				"Description": "Microsoft MVP em Windows Experience, desenvolvedor de aplicativos para Windows e Web, e editor chefe de um dos maiores sites de notícias da Microsoft do Brasil o vNext BR.",
+				"Name": "Julio Arruda, MTAC",
+				"ImageUrl": "https://scontent-gru2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12670752_820504361411779_7123636185177233392_n.jpg?oh=8a86f69e0701b81b36dc28ed5b26dcf5&oe=5789181A",
+				"Description": "Microsoft MTAC",
 				"Social": {
-					"Facebook": "https://www.facebook.com/vtnorton",
-					"Twitter": "http://twitter.com/vtnorton",
-					"Website": "http://vtnorton.com"
+					"Facebook": "https://www.facebook.com/julio.arrudaC/",
+					"Twitter": "http://twitter.com/JulioArrudaC",
+					"Website": "http://julioarruda.com.br"
 				}
 			}
 		}, {
