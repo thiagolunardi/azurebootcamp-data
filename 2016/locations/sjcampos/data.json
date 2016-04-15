@@ -120,7 +120,7 @@
 			"Title": "Keynote - Abertura",
 			"Speaker": {
 				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"ImageUrl": "httpshttps://avatars0.githubusercontent.com/u/5428523?v=3&s=460",
 				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
 				"Social": {
 					"Facebook": "http://www.facebook.com/ThiagoLunardi",
@@ -164,7 +164,7 @@
 			"Title": "Criando buscas ricas e relevantes com Azure Search",
 			"Speaker": {
 				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"ImageUrl": "https://avatars0.githubusercontent.com/u/5428523?v=3&s=460",
 				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
 				"Social": {
 					"Facebook": "http://www.facebook.com/ThiagoLunardi",
@@ -227,7 +227,7 @@
 			"Title": "App Services: Deep Dive",
 			"Speaker": {
 				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"ImageUrl": "https://avatars0.githubusercontent.com/u/5428523?v=3&s=460",
 				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
 				"Social": {
 					"Facebook": "http://www.facebook.com/ThiagoLunardi",
@@ -452,7 +452,7 @@
 			"Title": "Aumentando performance do seu website em escala global com Azure CDN",
 			"Speaker": {
 				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+				"ImageUrl": "https://avatars0.githubusercontent.com/u/5428523?v=3&s=460",
 				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
 				"Social": {
 					"Facebook": "http://www.facebook.com/ThiagoLunardi",
@@ -464,15 +464,13 @@
 		}, {
 			"SessionId": "Ex6",
 			"Time": "15:30 - 16:20",
-			"Title": "Certificações e Títulos Oficiais Microsoft Azure",
+			"Title": "Introdução ao mundo da Internet das Coisas",
 			"Speaker": {
-				"Name": "Julio Arruda, MTAC",
-				"ImageUrl": "http://visualstudiosummit.com.br/visualstudiosummit/img/palestrantes/julio_arruda.jpg",
-				"Description": "Microsoft MTAC",
+				"Name": "Claudenir Andrade, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/7863",
+				"Description": "Diretor Integração Tecnológica e Pré-Venda Daruam Tecnologia| MVP, Regional Director Microsoft",
 				"Social": {
-					"Facebook": "https://www.facebook.com/julio.arrudaC/",
-					"Twitter": "http://twitter.com/JulioArrudaC",
-					"Website": "http://julioarruda.com.br"
+					"Website": "https://mvp.microsoft.com/pt-br/PublicProfile/7863"
 				}
 			}
 		}]
