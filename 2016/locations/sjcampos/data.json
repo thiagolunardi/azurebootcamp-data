@@ -133,13 +133,11 @@
 			"Time": "9:30 - 10:20",
 			"Title": "Azure IOT Hub: Internet das Coisas",
 			"Speaker": {
-				"Name": "Djonatas Tenfen, MTAC",
-				"ImageUrl": "https://avatars2.githubusercontent.com/u/124771",
-				"Description": "Microsoft MTAC",
+				"Name": "Claudenir Andrade, MVP",
+				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/7863",
+				"Description": "Diretor Integração Tecnológica e Pré-Venda Daruam Tecnologia| MVP, Regional Director Microsoft",
 				"Social": {
-					"Facebook": "https://www.facebook.com/dtenfen",
-					"Twitter": "https://twitter.com/djonatas",
-					"Website": "http://djonatas.com.br"
+					"Website": "https://mvp.microsoft.com/pt-br/PublicProfile/7863"
 				}
 			}
 		}, {
@@ -189,15 +187,15 @@
 		}, {
 			"SessionId": "Dev5",
 			"Time": "14:30 - 15:20",
-			"Title": "Como trabalhar com PHP e aproveitar vários recursos do Azure programáticamente",
+			"Title": "Converse com especialistas",
 			"Speaker": {
-				"Name": "Priscila Sato, MTAC",
-				"ImageUrl": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/v/t1.0-9/10409363_817616138260776_3470843139629505081_n.jpg?oh=edc13c46a3d4be96ab0efe1ba7f1b36a&oe=57517403&__gda__=1469139961_ba4f1df52431606b4bcf58e13311080c",
-				"Description": "Graduada em Análise e Desenvolvimento de Sistemas, com a insígnia de Intel Brown Belt, ex MCC (Microsoft Community Contributor) e atualmente MTAC (Microsoft Technical Audience Contributor).",
+				"Name": "Thiago Lunardi, MVP",
+				"ImageUrl": "https://avatars0.githubusercontent.com/u/5428523?v=3&s=460",
+				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
 				"Social": {
-					"Facebook": "https://www.facebook.com/priscilamayumisato",
-					"Twitter": "https://twitter.com/@MayogaX",
-					"Website": "http://www.dev.mayogax.com"
+					"Facebook": "http://www.facebook.com/ThiagoLunardi",
+					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
+					"Website": "http://thiagolunardi.net"
 				}
 			}
 		}, {
@@ -266,15 +264,15 @@
 		}, {
 			"SessionId": "It4",
 			"Time": "13:30 - 14:20",
-			"Title": "Office 365",
+			"Title": "Azure Traffic Manager",
 			"Speaker": {
-				"Name": "Diogo Heringer, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/5000802",
-				"Description": "Teve início na carreira no ano de 2007, atualmente trabalha como Consultor de TI na Brasoftware. Sua especialidade é Unified Communications e Cloud Services. Atua também como instrutor de treinamentos oficiais Microsoft (MCT) das ferramentas o qual é especialista. Certificações: MVP - Office 365 MCT MCSA: 2003 Server MCITP: Enterprise Messaging MCITP: Office 365 Administrator MCITP: Enterprise Administrator MCITP: Virtualization Administrator MCITP: Server Administrator MCTS Technical Speaker no “Learning365″.",
+				"Name": "Thiago Lunardi, MVP",
+				"ImageUrl": "https://avatars0.githubusercontent.com/u/5428523?v=3&s=460",
+				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
 				"Social": {
 					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/diogoheringer",
-					"Website": "http://diogoheringer.com/"
+					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
+					"Website": "http://thiagolunardi.net"
 				}
 			}
 		}, {
@@ -448,31 +446,10 @@
 			}
 		}, {
 			"SessionId": "Ex5",
-			"Time": "14:30 - 15:20",
-			"Title": "Aumentando performance do seu website em escala global com Azure CDN",
-			"Speaker": {
-				"Name": "Thiago Lunardi, MVP",
-				"ImageUrl": "https://avatars0.githubusercontent.com/u/5428523?v=3&s=460",
-				"Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
-				"Social": {
-					"Facebook": "http://www.facebook.com/ThiagoLunardi",
-					"Twitter": "http://www.twitter.com/ThiagoLunardi13",
-					"Website": "http://thiagolunardi.net"
-				}
-			}
-
+			"Time": "14:30 - 15:20"
 		}, {
 			"SessionId": "Ex6",
-			"Time": "15:30 - 16:20",
-			"Title": "Introdução ao mundo da Internet das Coisas",
-			"Speaker": {
-				"Name": "Claudenir Andrade, MVP",
-				"ImageUrl": "https://mvp.microsoft.com/pt-br/PublicProfile/Photo/7863",
-				"Description": "Diretor Integração Tecnológica e Pré-Venda Daruam Tecnologia| MVP, Regional Director Microsoft",
-				"Social": {
-					"Website": "https://mvp.microsoft.com/pt-br/PublicProfile/7863"
-				}
-			}
+			"Time": "15:30 - 16:20"
 		}]
 	}]
 }
